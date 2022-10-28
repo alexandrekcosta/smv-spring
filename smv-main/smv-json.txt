@@ -1,0 +1,24 @@
+[
+{
+	"hcode_url": "http://localhost:3000/usuarios"
+},
+
+{
+	
+	"id":"1",
+	"certidao":"1234",
+	"cnh":"1234",
+	"email":"abcd@efgh",
+	"nomemae":"Hajar",
+	"numeroSUS":"1234567",
+	"Raça":"Azul",
+	"rg":"12345",
+	"nome":"Joanesvildo",
+	"cpf":"12345678",
+	"sexo":"Masculino",
+	"nascimento":"30/12/1999",
+	"endereco":"Rua dos Cornos,5",
+	"cep":"54321"
+	
+}
+	]
